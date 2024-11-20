@@ -1,0 +1,29 @@
+/* {
+    margin: auto;
+}*/
+
+div {
+    border-radius: 5px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: blue;
+    font-size: 2em;
+    border-bottom: 1px solid blue;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    text-decoration: none;
+}
